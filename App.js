@@ -10,4 +10,4 @@ const App = createStackNavigator({
   SearchTabNavigator:{ screen: SearchTabNavigator }
 },{initialRouteName: 'HomeScreen'})
 
-export default createAppContainer(App)
+export default createAppContainer(App) 
